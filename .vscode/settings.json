@@ -1,0 +1,14 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "database": "fin_api",
+      "username": "postgres",
+      "password": "docker",
+      "name": "Desafio 2"
+    }
+  ]
+}
